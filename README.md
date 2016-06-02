@@ -13,4 +13,4 @@ During the check, the program executes the following actins:
 * Is the file/directory bigger than the minimal file size?
 * Has the file/directory been changed in the given time?
 
-If the answer to both questions is true, then the file/directory shall be passed in a list, together with the path location and the last edited time. This list is then saved in a .txt file.
+If the answer to both questions is true, then the file/directory shall be passed in a list, together with the path location and the last edited time. This list is then saved in a .txt file. test
